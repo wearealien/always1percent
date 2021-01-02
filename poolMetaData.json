@@ -1,7 +1,7 @@
 cat > poolMetaData.json << EOF
 {
 "name": "Cardano Pizza - Slice #1",
-Delegate to ticker "SLICE" = always 1 percent margin. Enter to win #CardanoPizzaChallenge at CardanoPizza.com - winners every month in 2021. Our mission: ADA adoption one SLICE at a time.",
+"description": Delegate to ticker "SLICE" = always 1 percent margin. Enter to win #CardanoPizzaChallenge at CardanoPizza.com - winners every month in 2021. Our mission: ADA adoption one SLICE at a time.",
 "ticker": "SLICE",
 "homepage": "http://always1percent.com"
 }
